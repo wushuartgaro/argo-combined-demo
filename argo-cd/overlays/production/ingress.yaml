@@ -18,5 +18,5 @@ spec:
            name: argocd-server
            port:
              number: 80
-    host: argo-cd.34.135.228.249.nip.io
+    host: argo-cd.34.101.71.194.nip.io
 
